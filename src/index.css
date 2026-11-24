@@ -5,13 +5,12 @@
   --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif;
   --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace;
 
-  --color-ink: #061B49;
-  --color-ink-muted: #475569;
-  --color-cobalt: #0057B8;
-  --color-signal: #F96A04;
-  --color-paper: #F7F9FC;
+  --color-ink: #0D1545;
+  --color-ink-muted: #4E556B;
+  --color-signal: #F26513;
+  --color-paper: #F8F9FB;
   --color-surface: #FFFFFF;
-  --color-hairline: #DDE3EE;
+  --color-hairline: #E2E5EE;
 }
 
 @layer base {
@@ -33,8 +32,8 @@
 
 .swiss-grid-bg {
   background-image:
-    linear-gradient(to right, rgba(6, 27, 73, 0.04) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(6, 27, 73, 0.04) 1px, transparent 1px);
+    linear-gradient(to right, rgba(13, 21, 69, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(13, 21, 69, 0.04) 1px, transparent 1px);
   background-size: 64px 64px;
 }
 

@@ -70,11 +70,12 @@ export const SITE_IMAGES = {
 
 export const COMPANY_INFO = {
   legalName: 'TRADEINFY TECHNOLOGY L.L.C.',
-  shortName: 'Tradeinfy',
-  logoUrl: '/assets/aistudio/Tradeinfy_Technology_Logo_5f3da2b5.png',
+  shortName: 'TradeInfy',
+  logoUrl: '/assets/aistudio/WhatsApp_Image_2026-11-24_at_5.29.02_PM_ad54bb61.jpeg',
   email: 'contact@tradeinfy.com',
-  phone: '+971 4 555 0194',
-  location: 'Dubai, United Arab Emirates',
+  phone: '+971 50 175 7629',
+  phoneHref: 'tel:+971501757629',
+  location: 'GARHOUD - OFF106, Al Garhoud, Dubai, UAE',
   hours: 'Monday – Friday, 09:00 – 18:00 GST',
 };
 

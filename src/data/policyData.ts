@@ -27,7 +27,7 @@ export const POLICY_PAGES: PolicyDocument[] = [
       {
         heading: 'Scope & Data Controller',
         body: [
-          'TRADEINFY TECHNOLOGY L.L.C., a company established in Dubai, United Arab Emirates, acts as the Data Controller for personal information collected through this website and during client consultations across Software Management, Domain Management, Graphics Design, Content Writing, Online Marketing, Software Training, and Digital Marketing engagements.',
+          'TRADEINFY TECHNOLOGY L.L.C., located at GARHOUD - OFF106, Al Garhoud, Dubai, UAE, acts as the Data Controller for personal information collected through this website and during client consultations across Software Management, Domain Management, Graphics Design, Content Writing, Online Marketing, Software Training, and Digital Marketing engagements. Official inquiries may be sent to contact@tradeinfy.com or +971 50 175 7629.',
           'We process personal data strictly in compliance with UAE Federal Decree-Law No. 45 of 2021 regarding the Protection of Personal Data (PDPL) and its applicable executive regulations.',
         ],
       },

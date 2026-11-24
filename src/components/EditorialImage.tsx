@@ -28,7 +28,7 @@ export function EditorialImage({
   }
 
   return (
-    <figure className={`relative overflow-hidden border border-[#DDE3EE] bg-white ${className}`}>
+    <figure className={`relative overflow-hidden border border-[#E2E5EE] bg-white ${className}`}>
       <img
         src={src}
         alt={alt}
@@ -37,7 +37,7 @@ export function EditorialImage({
         className="h-full w-full object-cover"
       />
       {caption && (
-        <figcaption className="border-t border-[#DDE3EE] bg-white px-4 py-2.5 text-xs text-[#475569]">
+        <figcaption className="border-t border-[#E2E5EE] bg-white px-4 py-2.5 text-xs text-[#4E556B]">
           {caption}
         </figcaption>
       )}

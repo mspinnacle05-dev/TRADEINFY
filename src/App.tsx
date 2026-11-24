@@ -194,7 +194,7 @@ export default function App() {
       <div
         aria-hidden={isGateOpen}
         inert={isGateOpen || undefined}
-        className={`flex min-h-screen flex-col bg-[#F7F9FC] text-[#061B49] ${
+        className={`flex min-h-screen flex-col bg-[#F8F9FB] text-[#0D1545] ${
           isGateOpen ? 'h-screen overflow-hidden pointer-events-none select-none' : ''
         }`}
       >
